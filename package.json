@@ -1,0 +1,17 @@
+{
+  "name": "reproduce-rollup-plugins-1032.mjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && rollup -c"
+  },
+  "author": "loynoir",
+  "license": "ISC",
+  "dependencies": {
+    "@rollup/plugin-typescript": "^8.3.0",
+    "rollup": "^2.60.0",
+    "tslib": "^2.3.1",
+    "typescript": "^4.5.2"
+  }
+}
